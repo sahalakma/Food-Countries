@@ -3,7 +3,7 @@
 #### Example:
 
 
-A Web App used to filter Food Items Based on thier Nationalities, built with React, JavaScript, and CSS.
+A Web App used to filter Food Items Based on thier Invented Countries, built with React, JavaScript, and CSS.
 
 ## Note
 Just a Random Small Project without Database. 
