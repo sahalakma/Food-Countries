@@ -11,9 +11,9 @@ Just a Random Small Project without Database.
 
 ## Project Screen Shot(s)
 
-![](images/screenshots/ss.png)
+![](/images/screenshots/ss.png)
 
-![](images/screenshots/ss1.png)
+![](/images/screenshots/ss1.png)
 
 
 ## Installation and Setup Instructions
