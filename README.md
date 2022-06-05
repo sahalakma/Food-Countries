@@ -11,7 +11,7 @@ Just a Random Small Project without Database.
 
 ## Project Screen Shot(s)
 
-![](/images/screenshots/ss.png)
+![ss](https://user-images.githubusercontent.com/69509304/172046990-4ffabba5-be34-4b96-9c46-eaeb2126a320.png)
 
 ![](/images/screenshots/ss1.png)
 
