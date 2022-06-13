@@ -3,7 +3,7 @@ const menu = [
       id: 1,
       title: "Biriyani",
       place: "Indian",
-      img: "./Images/item-1.jpg" ,
+      img: "./images/item-1.jpg" ,
       Description:"Biryani is one of the most popular dishes in South Asia, as well as among the diaspora from the region. Similar dishes are also prepared in other parts of the world such as in Iraq, Thailand, and Malaysia.[2] Biryani is the single most-ordered dish on Indian online food ordering and delivery services"
   },
   {
