@@ -11,7 +11,9 @@ Just a Random Small Project without Database.
 
 ## Project Screen Shot(s)
 
-#### Example:   
+![ss](https://user-images.githubusercontent.com/69509304/172046990-4ffabba5-be34-4b96-9c46-eaeb2126a320.png)
+
+![ss1](https://user-images.githubusercontent.com/69509304/172047082-ae18c79e-6fd6-4eb7-a602-b48e84b26cd1.png)
 
 
 ## Installation and Setup Instructions
