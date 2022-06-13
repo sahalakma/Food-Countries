@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/food-items/static/css/main.26e112f5.chunk.css",
+    "main.js": "/food-items/static/js/main.a5af1b3f.chunk.js",
+    "main.js.map": "/food-items/static/js/main.a5af1b3f.chunk.js.map",
+    "runtime-main.js": "/food-items/static/js/runtime-main.aeb26168.js",
+    "runtime-main.js.map": "/food-items/static/js/runtime-main.aeb26168.js.map",
+    "static/js/2.cd2a891f.chunk.js": "/food-items/static/js/2.cd2a891f.chunk.js",
+    "static/js/2.cd2a891f.chunk.js.map": "/food-items/static/js/2.cd2a891f.chunk.js.map",
+    "index.html": "/food-items/index.html",
+    "precache-manifest.996edd8d6fe843d122b2fe1b5da5b1df.js": "/food-items/precache-manifest.996edd8d6fe843d122b2fe1b5da5b1df.js",
+    "service-worker.js": "/food-items/service-worker.js",
+    "static/css/main.26e112f5.chunk.css.map": "/food-items/static/css/main.26e112f5.chunk.css.map",
+    "static/js/2.cd2a891f.chunk.js.LICENSE.txt": "/food-items/static/js/2.cd2a891f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aeb26168.js",
+    "static/js/2.cd2a891f.chunk.js",
+    "static/css/main.26e112f5.chunk.css",
+    "static/js/main.a5af1b3f.chunk.js"
+  ]
+}
